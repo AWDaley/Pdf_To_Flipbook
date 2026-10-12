@@ -1,0 +1,274 @@
+{
+  "schemaVersion": "2.0",
+  "title": "Fieldnotes — A study in quiet places",
+  "pageCount": 10,
+  "settings": {
+    "preset": "magazine",
+    "layout": "auto",
+    "showCoverAlone": true,
+    "backgroundColor": "#dce5db",
+    "backgroundImage": null,
+    "toolbarTheme": "dark",
+    "turnDurationMs": 850,
+    "shadowStrength": 0.32,
+    "showPageEdges": true,
+    "motionPreference": "full"
+  },
+  "pages": [
+    {
+      "sourcePage": 1,
+      "label": "01",
+      "aspectRatio": 0.75,
+      "image": {
+        "path": "pages/page-001-fit.webp",
+        "width": 1200,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/page-001-zoom.webp",
+        "width": 2400,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/page-001-thumb.webp",
+        "width": 240,
+        "height": 320
+      },
+      "textPath": "text/page-001.json",
+      "links": []
+    },
+    {
+      "sourcePage": 2,
+      "label": "02",
+      "aspectRatio": 0.75,
+      "image": {
+        "path": "pages/page-002-fit.webp",
+        "width": 1200,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/page-002-zoom.webp",
+        "width": 2400,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/page-002-thumb.webp",
+        "width": 240,
+        "height": 320
+      },
+      "textPath": "text/page-002.json",
+      "links": [
+        {
+          "x": 0.06,
+          "y": 0.3,
+          "width": 0.8,
+          "height": 0.075,
+          "label": "Read The listening forest",
+          "target": {
+            "type": "page",
+            "sourcePage": 3
+          }
+        }
+      ]
+    },
+    {
+      "sourcePage": 3,
+      "label": "03",
+      "aspectRatio": 0.75,
+      "image": {
+        "path": "pages/page-003-fit.webp",
+        "width": 1200,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/page-003-zoom.webp",
+        "width": 2400,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/page-003-thumb.webp",
+        "width": 240,
+        "height": 320
+      },
+      "textPath": "text/page-003.json",
+      "links": []
+    },
+    {
+      "sourcePage": 4,
+      "label": "04",
+      "aspectRatio": 0.75,
+      "image": {
+        "path": "pages/page-004-fit.webp",
+        "width": 1200,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/page-004-zoom.webp",
+        "width": 2400,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/page-004-thumb.webp",
+        "width": 240,
+        "height": 320
+      },
+      "textPath": "text/page-004.json",
+      "links": []
+    },
+    {
+      "sourcePage": 5,
+      "label": "05",
+      "aspectRatio": 0.75,
+      "image": {
+        "path": "pages/page-005-fit.webp",
+        "width": 1200,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/page-005-zoom.webp",
+        "width": 2400,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/page-005-thumb.webp",
+        "width": 240,
+        "height": 320
+      },
+      "textPath": "text/page-005.json",
+      "links": []
+    },
+    {
+      "sourcePage": 6,
+      "label": "06",
+      "aspectRatio": 0.75,
+      "image": {
+        "path": "pages/page-006-fit.webp",
+        "width": 1200,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/page-006-zoom.webp",
+        "width": 2400,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/page-006-thumb.webp",
+        "width": 240,
+        "height": 320
+      },
+      "textPath": "text/page-006.json",
+      "links": []
+    },
+    {
+      "sourcePage": 7,
+      "label": "07",
+      "aspectRatio": 0.75,
+      "image": {
+        "path": "pages/page-007-fit.webp",
+        "width": 1200,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/page-007-zoom.webp",
+        "width": 2400,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/page-007-thumb.webp",
+        "width": 240,
+        "height": 320
+      },
+      "textPath": "text/page-007.json",
+      "links": []
+    },
+    {
+      "sourcePage": 8,
+      "label": "08",
+      "aspectRatio": 0.75,
+      "image": {
+        "path": "pages/page-008-fit.webp",
+        "width": 1200,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/page-008-zoom.webp",
+        "width": 2400,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/page-008-thumb.webp",
+        "width": 240,
+        "height": 320
+      },
+      "textPath": "text/page-008.json",
+      "links": []
+    },
+    {
+      "sourcePage": 9,
+      "label": "09",
+      "aspectRatio": 0.75,
+      "image": {
+        "path": "pages/page-009-fit.webp",
+        "width": 1200,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/page-009-zoom.webp",
+        "width": 2400,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/page-009-thumb.webp",
+        "width": 240,
+        "height": 320
+      },
+      "textPath": "text/page-009.json",
+      "links": []
+    },
+    {
+      "sourcePage": 10,
+      "label": "10",
+      "aspectRatio": 0.75,
+      "image": {
+        "path": "pages/page-010-fit.webp",
+        "width": 1200,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/page-010-zoom.webp",
+        "width": 2400,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/page-010-thumb.webp",
+        "width": 240,
+        "height": 320
+      },
+      "textPath": "text/page-010.json",
+      "links": []
+    }
+  ],
+  "outline": [
+    {
+      "title": "A letter from the field",
+      "sourcePage": 2
+    },
+    {
+      "title": "The listening forest",
+      "sourcePage": 3
+    },
+    {
+      "title": "Water holds the sky",
+      "sourcePage": 6
+    },
+    {
+      "title": "A place to pause",
+      "sourcePage": 8
+    },
+    {
+      "title": "Make room for wonder",
+      "sourcePage": 9
+    }
+  ],
+  "originalPdf": null
+}

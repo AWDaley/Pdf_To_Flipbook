@@ -1,0 +1,21 @@
+Command: npm run test:reader -- --project chromium
+Platform: Windows, pinned Playwright Chromium, after clean npm ci / doctor / build.
+Date: September 14, 2026
+
+Result: 14 passed, 1 failed (12.3 minutes).
+Passed: M0 screenshots/video, spread controls/search, single forward/reverse and resize,
+one/two/odd/even endings, zoom/pan/keyboard, bounded rapid navigation, safe links,
+missing assets/retry, pointercancel rollback, resize during turn, delayed destination assets.
+
+Failed: explicit reduced motion changes pages without folding.
+Failure occurred in openBook before book-stage existed, not during the reduced-motion action.
+The 45-second test timeout and context teardown timeout expanded to 9.3 minutes during severe
+host contention. A read-only shell command also stalled for over eight minutes. The root task
+observed approximately 181616 KiB available of 16154192 KiB physical memory.
+
+This failure is recorded, not converted into a pass. Reduced motion had passed in earlier
+Chromium runs; a serial retry is required after the owned concurrent processes stop.
+
+The successful M0 evidence from this run was copied to docs/evidence/m0/chromium.
+Firefox is separately blocked before application execution by host SideBySide activation.
+Final serial verification supersedes the earlier contention-affected run: npm run verify completed September 14, 2026 with 15/15 Chromium reader tests passed. All 15 Firefox reader tests failed before browser creation (spawn UNKNOWN), not skipped. Full log: artifacts/verification-final.log. Overall verify exit1 also includes the same Firefox launch failure for export; Chromium export passed.

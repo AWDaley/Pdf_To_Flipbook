@@ -1,0 +1,241 @@
+{
+  "schemaVersion": "2.0",
+  "title": "Fieldnotes · Quiet places",
+  "pageCount": 10,
+  "settings": {
+    "preset": "magazine",
+    "layout": "auto",
+    "showCoverAlone": true,
+    "backgroundColor": "#dce5db",
+    "backgroundImage": null,
+    "toolbarTheme": "dark",
+    "turnDurationMs": 850,
+    "shadowStrength": 0.32,
+    "showPageEdges": true,
+    "motionPreference": "system"
+  },
+  "pages": [
+    {
+      "sourcePage": 1,
+      "label": "1",
+      "aspectRatio": 0.75,
+      "image": {
+        "path": "pages/0001.webp",
+        "width": 1200,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0001-zoom.webp",
+        "width": 2400,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0001.webp",
+        "width": 240,
+        "height": 320
+      },
+      "textPath": "text/0001.json",
+      "links": []
+    },
+    {
+      "sourcePage": 2,
+      "label": "2",
+      "aspectRatio": 0.75,
+      "image": {
+        "path": "pages/0002.webp",
+        "width": 1200,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0002-zoom.webp",
+        "width": 2400,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0002.webp",
+        "width": 240,
+        "height": 320
+      },
+      "textPath": "text/0002.json",
+      "links": []
+    },
+    {
+      "sourcePage": 3,
+      "label": "3",
+      "aspectRatio": 0.75,
+      "image": {
+        "path": "pages/0003.webp",
+        "width": 1200,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0003-zoom.webp",
+        "width": 2400,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0003.webp",
+        "width": 240,
+        "height": 320
+      },
+      "textPath": "text/0003.json",
+      "links": []
+    },
+    {
+      "sourcePage": 4,
+      "label": "4",
+      "aspectRatio": 0.75,
+      "image": {
+        "path": "pages/0004.webp",
+        "width": 1200,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0004-zoom.webp",
+        "width": 2400,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0004.webp",
+        "width": 240,
+        "height": 320
+      },
+      "textPath": "text/0004.json",
+      "links": []
+    },
+    {
+      "sourcePage": 5,
+      "label": "5",
+      "aspectRatio": 0.75,
+      "image": {
+        "path": "pages/0005.webp",
+        "width": 1200,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0005-zoom.webp",
+        "width": 2400,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0005.webp",
+        "width": 240,
+        "height": 320
+      },
+      "textPath": "text/0005.json",
+      "links": []
+    },
+    {
+      "sourcePage": 6,
+      "label": "6",
+      "aspectRatio": 0.75,
+      "image": {
+        "path": "pages/0006.webp",
+        "width": 1200,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0006-zoom.webp",
+        "width": 2400,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0006.webp",
+        "width": 240,
+        "height": 320
+      },
+      "textPath": "text/0006.json",
+      "links": []
+    },
+    {
+      "sourcePage": 7,
+      "label": "7",
+      "aspectRatio": 0.75,
+      "image": {
+        "path": "pages/0007.webp",
+        "width": 1200,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0007-zoom.webp",
+        "width": 2400,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0007.webp",
+        "width": 240,
+        "height": 320
+      },
+      "textPath": "text/0007.json",
+      "links": []
+    },
+    {
+      "sourcePage": 8,
+      "label": "8",
+      "aspectRatio": 0.75,
+      "image": {
+        "path": "pages/0008.webp",
+        "width": 1200,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0008-zoom.webp",
+        "width": 2400,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0008.webp",
+        "width": 240,
+        "height": 320
+      },
+      "textPath": "text/0008.json",
+      "links": []
+    },
+    {
+      "sourcePage": 9,
+      "label": "9",
+      "aspectRatio": 0.75,
+      "image": {
+        "path": "pages/0009.webp",
+        "width": 1200,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0009-zoom.webp",
+        "width": 2400,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0009.webp",
+        "width": 240,
+        "height": 320
+      },
+      "textPath": "text/0009.json",
+      "links": []
+    },
+    {
+      "sourcePage": 10,
+      "label": "10",
+      "aspectRatio": 0.75,
+      "image": {
+        "path": "pages/0010.webp",
+        "width": 1200,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0010-zoom.webp",
+        "width": 2400,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0010.webp",
+        "width": 240,
+        "height": 320
+      },
+      "textPath": "text/0010.json",
+      "links": []
+    }
+  ],
+  "outline": [],
+  "originalPdf": null
+}

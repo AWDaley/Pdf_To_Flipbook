@@ -1,0 +1,901 @@
+{
+  "schemaVersion": "2.0",
+  "title": "2025 - 2026 Final Annual Report",
+  "pageCount": 40,
+  "settings": {
+    "preset": "magazine",
+    "layout": "auto",
+    "showCoverAlone": true,
+    "backgroundColor": "#e9e6df",
+    "backgroundImage": null,
+    "toolbarTheme": "dark",
+    "turnDurationMs": 850,
+    "shadowStrength": 0.32,
+    "showPageEdges": true,
+    "motionPreference": "system"
+  },
+  "pages": [
+    {
+      "sourcePage": 1,
+      "label": "1",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0001.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0001-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0001.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0001.json",
+      "links": []
+    },
+    {
+      "sourcePage": 2,
+      "label": "2",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0002.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0002-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0002.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0002.json",
+      "links": []
+    },
+    {
+      "sourcePage": 3,
+      "label": "3",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0003.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0003-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0003.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0003.json",
+      "links": []
+    },
+    {
+      "sourcePage": 4,
+      "label": "4",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0004.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0004-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0004.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0004.json",
+      "links": []
+    },
+    {
+      "sourcePage": 5,
+      "label": "5",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0005.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0005-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0005.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0005.json",
+      "links": []
+    },
+    {
+      "sourcePage": 6,
+      "label": "6",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0006.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0006-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0006.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0006.json",
+      "links": []
+    },
+    {
+      "sourcePage": 7,
+      "label": "7",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0007.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0007-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0007.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0007.json",
+      "links": []
+    },
+    {
+      "sourcePage": 8,
+      "label": "8",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0008.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0008-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0008.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0008.json",
+      "links": []
+    },
+    {
+      "sourcePage": 9,
+      "label": "9",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0009.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0009-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0009.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0009.json",
+      "links": []
+    },
+    {
+      "sourcePage": 10,
+      "label": "10",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0010.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0010-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0010.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0010.json",
+      "links": []
+    },
+    {
+      "sourcePage": 11,
+      "label": "11",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0011.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0011-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0011.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0011.json",
+      "links": []
+    },
+    {
+      "sourcePage": 12,
+      "label": "12",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0012.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0012-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0012.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0012.json",
+      "links": []
+    },
+    {
+      "sourcePage": 13,
+      "label": "13",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0013.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0013-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0013.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0013.json",
+      "links": []
+    },
+    {
+      "sourcePage": 14,
+      "label": "14",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0014.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0014-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0014.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0014.json",
+      "links": []
+    },
+    {
+      "sourcePage": 15,
+      "label": "15",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0015.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0015-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0015.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0015.json",
+      "links": []
+    },
+    {
+      "sourcePage": 16,
+      "label": "16",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0016.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0016-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0016.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0016.json",
+      "links": []
+    },
+    {
+      "sourcePage": 17,
+      "label": "17",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0017.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0017-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0017.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0017.json",
+      "links": []
+    },
+    {
+      "sourcePage": 18,
+      "label": "18",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0018.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0018-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0018.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0018.json",
+      "links": []
+    },
+    {
+      "sourcePage": 19,
+      "label": "19",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0019.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0019-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0019.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0019.json",
+      "links": []
+    },
+    {
+      "sourcePage": 20,
+      "label": "20",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0020.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0020-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0020.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0020.json",
+      "links": []
+    },
+    {
+      "sourcePage": 21,
+      "label": "21",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0021.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0021-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0021.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0021.json",
+      "links": []
+    },
+    {
+      "sourcePage": 22,
+      "label": "22",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0022.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0022-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0022.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0022.json",
+      "links": []
+    },
+    {
+      "sourcePage": 23,
+      "label": "23",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0023.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0023-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0023.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0023.json",
+      "links": []
+    },
+    {
+      "sourcePage": 24,
+      "label": "24",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0024.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0024-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0024.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0024.json",
+      "links": []
+    },
+    {
+      "sourcePage": 25,
+      "label": "25",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0025.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0025-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0025.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0025.json",
+      "links": []
+    },
+    {
+      "sourcePage": 26,
+      "label": "26",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0026.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0026-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0026.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0026.json",
+      "links": []
+    },
+    {
+      "sourcePage": 27,
+      "label": "27",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0027.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0027-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0027.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0027.json",
+      "links": []
+    },
+    {
+      "sourcePage": 28,
+      "label": "28",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0028.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0028-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0028.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0028.json",
+      "links": []
+    },
+    {
+      "sourcePage": 29,
+      "label": "29",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0029.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0029-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0029.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0029.json",
+      "links": []
+    },
+    {
+      "sourcePage": 30,
+      "label": "30",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0030.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0030-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0030.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0030.json",
+      "links": []
+    },
+    {
+      "sourcePage": 31,
+      "label": "31",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0031.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0031-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0031.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0031.json",
+      "links": []
+    },
+    {
+      "sourcePage": 32,
+      "label": "32",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0032.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0032-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0032.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0032.json",
+      "links": []
+    },
+    {
+      "sourcePage": 33,
+      "label": "33",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0033.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0033-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0033.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0033.json",
+      "links": []
+    },
+    {
+      "sourcePage": 34,
+      "label": "34",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0034.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0034-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0034.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0034.json",
+      "links": []
+    },
+    {
+      "sourcePage": 35,
+      "label": "35",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0035.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0035-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0035.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0035.json",
+      "links": []
+    },
+    {
+      "sourcePage": 36,
+      "label": "36",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0036.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0036-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0036.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0036.json",
+      "links": []
+    },
+    {
+      "sourcePage": 37,
+      "label": "37",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0037.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0037-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0037.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0037.json",
+      "links": []
+    },
+    {
+      "sourcePage": 38,
+      "label": "38",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0038.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0038-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0038.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0038.json",
+      "links": []
+    },
+    {
+      "sourcePage": 39,
+      "label": "39",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0039.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0039-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0039.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0039.json",
+      "links": []
+    },
+    {
+      "sourcePage": 40,
+      "label": "40",
+      "aspectRatio": 0.7727272727272727,
+      "image": {
+        "path": "pages/0040.webp",
+        "width": 1237,
+        "height": 1600
+      },
+      "zoomImage": {
+        "path": "pages/0040-zoom.webp",
+        "width": 2473,
+        "height": 3200
+      },
+      "thumbnail": {
+        "path": "thumbnails/0040.webp",
+        "width": 247,
+        "height": 320
+      },
+      "textPath": "text/0040.json",
+      "links": []
+    }
+  ],
+  "outline": [],
+  "originalPdf": null
+}
